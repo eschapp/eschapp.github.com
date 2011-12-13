@@ -8,32 +8,19 @@ layout: layout
     {{ content }}
   </div>
 
-  <div class="whoring">
-    <h3>Discussion, links, and tweets</h3>
-    <div class="copy">
-      <a href="https://twitter.com/holman"><img src="http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c?s=142" height="50" width="50" /></a>
+<div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'eschappgithub'; // required: replace example with your forum shortname
 
-      <p>
-        I'm a developer at GitHub. <a href="https://twitter.com/holman">Follow me on Twitter</a>;
-        you'll enjoy my tweets. I take care to carefully craft each one. Or at least aim to make
-        you giggle. Or offended. One of those two&mdash; I haven't decided which yet.
-      </p>
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
 
-      {% if page.hn %}
-      <p>
-        You can discuss, upvote, downvote, and poke fun of this post over at <a href="{{ page.hn }}">Hacker News</a>.
-      </p>
-      {% endif %}
-
-      <p>
-        I also keep an "ask me anything" type of project in a repository on GitHub (naturally!). Feel free to <a href="https://github.com/holman/feedback/issues">ask me a question</a>.
-      </p>
-
-      <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="holman">Tweet</a>
-      <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-
-      <a href="http://twitter.com/holman" class="twitter-follow-button" data-show-count="false">Follow @holman</a>
-      <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
-    </div>
-  </div>
 </div>
