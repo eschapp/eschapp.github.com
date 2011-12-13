@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-permalink: /posts/hello-world
+permalink: /posts/helloworld
 ---
 
 ## Going to see if this works.
