@@ -27,6 +27,7 @@ hr{
   margin-left: 140px;
   width: 750px;
   margin-bottom: 50px;
+  overflow: hidden;
 }
 .content ul{
   margin-left: -10px;
@@ -39,6 +40,7 @@ hr{
 .related{
   margin-top: 10px;
   font-family: 'Ubuntu', sans-serif;
+  overflow:hidden;
 }
 .related ul{
   margin: 0;
@@ -90,7 +92,7 @@ h3{
   position: fixed;
   left: 5px;
   bottom: 15px;
-  width: 95px;
+  width: 100%;
   font-family: 'Ubuntu', sans-serif;
 }
 #header .avatar{
@@ -150,6 +152,7 @@ h3{
 #post{
   padding-bottom: 30px;
   margin-bottom: 30px;
+  overflow: hidden;
 }
 #post ul{
   font-size: 15px;
