@@ -22,6 +22,7 @@ hr{
   margin: 2em 1em;
 }
 .content{
+  position: bottom;
   margin-left: 140px;
   width: 750px;
   margin-bottom: 50px;
