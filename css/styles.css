@@ -32,7 +32,7 @@ hr{
 }
 .content li{
   margin-bottom: 10px;
-  color: #222;
+  color: #AFAFAF;
   list-style-type: square;
 }
 .related{
@@ -48,7 +48,7 @@ hr{
   list-style: none;
   padding: 5px 3px;
   margin: 0;
-  color: #777;
+  color: #AFAFAF;
 }
 .related li span{
   float: right;
@@ -165,6 +165,7 @@ h3{
 }
 #post p{
   font-size: 16px;
+  color: #AFAFAF;
   margin-top: 0;
   margin-bottom: 1.2em;
   line-height: 1.7em;
@@ -214,6 +215,24 @@ h3{
   color: #111;
   font-style: normal;
 }
-#dsq-content .dsq-post-fields .dsq-input-wrapper{  
-  background: #2A2A2A none no-repeat scroll left top; 
+/* --- disqus css -- */
+#disqus_thread {
+color: #ffffff;
+border-style: 0px solid;
+border-color: #cccccc;
+padding: 5px;
 }
+#dsq-content #dsq-comments .dsq-comment-body {
+color: #fff;
+background-color: #5B5B5B;
+}
+.dsq-reaction-body {
+color: #fff;
+}
+.dsq-reaction-header cite, .dsq-reaction-header span {
+color: #ccc;
+}
+.dsq-reaction-retweets {
+color: #ccc;
+}
+/*--- end disqus css --*/
