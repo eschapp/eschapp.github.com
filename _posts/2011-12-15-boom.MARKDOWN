@@ -1,0 +1,20 @@
+---
+layout: post
+title: Boom, New Digs
+permalink: /posts/boom-new-digs
+---
+
+## Changing Times
+
+I've been playing around with Git and GitHub recently, but I was having a hard time internaizing how they work. So I decided to fork a project see where that goes.
+
+###Getting Committing
+
+I've been getting sick of using WordPress for my personal site. I will probably still use WordPress, but it is just overkill for what I need right now. So I forked one of [@holman]'s repos: [holman.github.com] , which uses [Jekyll] and GitHub Pages to host a blog.
+[@holman]: http://github.com/holman		"@holman"
+[holman.github.com]: https://github.com/holman/holman.github.com "holman.github.com"
+[Jekyll]: https://github.com/mojombo/jekyll "Jekyll"
+
+Editing all of the files and using git for revisions was good practice. My understanding of how projects are hosted at GitHub has at least gotten me to the 'conversational' level. Really, it got me committing on my GitHub repositories and encouraged me to put a fork in someone. 
+
+And I guess this sandbox resulted.
