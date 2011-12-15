@@ -1,7 +1,7 @@
 body{
   font-family: 'Ubuntu', sans-serif;
   margin: 0;
-  width: 100%;
+  width: 99%;
   -webkit-font-smoothing: antialiased;	background: fixed top center url("/images/background.jpg") #ffffff;
    -o-background-size: cover;
    -moz-background-size: cover;
