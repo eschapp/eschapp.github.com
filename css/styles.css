@@ -1,8 +1,13 @@
 body{
   font-family: 'Ubuntu', sans-serif;
-  background-color: #5B5B5B;
+  background: fixed top center url(https://github.com/eschapp/eschapp.github.com/blob/master/images/background.png) #ffffff;
   margin: 0;
+  width: 100%;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
   -webkit-font-smoothing: antialiased;
+  background-size: cover;
 }
 a{
   color: #AFAFAF;
