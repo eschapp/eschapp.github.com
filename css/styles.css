@@ -99,27 +99,28 @@ h3{
   font-family: 'Ubuntu', sans-serif;
 }
 #header .avatar{
-  margin-left: 2px;
+  margin-left: 12px;
   opacity: .8;
 }
 #header .avatar:hover{
-  opacity: 1;
+  opacity: 0;
 }
 #header a{
   text-decoration: none;
 }
 #header #me{
   text-transform: uppercase;
-  margin: 10px 0 20px 0;
+  margin: 20px 15px -65px;
 }
 #header #tag{
+  display: none;
   padding-left: 1px;
-  font-size: 23px;
+  font-size: 18px;
   letter-spacing: 3px;
-  color: #333333;
+  color: #000000;
 }
 #header #tag:hover {
-  color: #000;
+  display: inline;
 }
 #header #eschapp{
   font-size: 17px;
