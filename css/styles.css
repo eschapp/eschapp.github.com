@@ -93,8 +93,8 @@ h3{
 
 #header{
   position: fixed;
-  left: 0px;
-  bottom: 0px;
+  left: 5px;
+  bottom: 5px;
   width: 90px;
   font-family: 'Ubuntu', sans-serif;
 }
@@ -115,8 +115,8 @@ h3{
 #header #zach{
   padding-left: 1px;
   font-size: 23px;
-  letter-spacing: 5px;
-  color: #666;
+  letter-spacing: 3px;
+  color: #333333;
 }
 #header #zach:hover {
   color: #000;
@@ -125,7 +125,7 @@ h3{
   font-size: 17px;
   font-weight: bold;
   letter-spacing: 1px;
-  color: #000;
+  color: #111111;
 }
 #header .site{
 }
