@@ -112,16 +112,16 @@ h3{
   text-transform: uppercase;
   margin: 10px 0 20px 0;
 }
-#header #zach{
+#header #tag{
   padding-left: 1px;
   font-size: 23px;
   letter-spacing: 3px;
   color: #333333;
 }
-#header #zach:hover {
+#header #tag:hover {
   color: #000;
 }
-#header #holman{
+#header #eschapp{
   font-size: 17px;
   font-weight: bold;
   letter-spacing: 1px;

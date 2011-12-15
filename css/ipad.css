@@ -17,10 +17,10 @@
 #header #me{
   display: inline;
 }
-#header #zach, #header #holman{
+#header #tag, #header #eschapp{
   font-size: 30px;
   color: #000;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   letter-spacing: 0;
   font-weight: normal;
   text-transform: none;
