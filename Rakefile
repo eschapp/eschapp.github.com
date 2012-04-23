@@ -4,7 +4,7 @@ require 'fileutils'
 
 desc "Draft a new post"
 task :new do
-  puts "What should we call this post for now?"
+  puts "What should we call this post?"
   name = STDIN.gets.chomp
   FileUtils.touch("drafts/#{name}.md")
 
