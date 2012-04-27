@@ -222,23 +222,3 @@ h3{
   color: #111;
   font-style: normal;
 }
-/* --- disqus css -- */
-#disqus_thread {
-color: #ffffff;
-border-style: 0px solid;
-border-color: #cccccc;
-padding: 5px;
-}
-#dsq-content #dsq-comments .dsq-comment-body {
-color: #5B5B5B;
-}
-.dsq-reaction-body {
-color: #fff;
-}
-.dsq-reaction-header cite, .dsq-reaction-header span {
-color: #ccc;
-}
-.dsq-reaction-retweets {
-color: #ccc;
-}
-/*--- end disqus css --*/
