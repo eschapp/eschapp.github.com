@@ -4,11 +4,9 @@ title: Customer Evangelists
 permalink: /posts/customer-evangelists
 ---
 
-#Customer Evangelists
+My Fitbit recently just stopped working. As far as I know, I hadn't done anything to damage the device, but it would not hold a charge. After searching [Fitbit.com](http://fitbit.com)'s support pages, I went through the recommended steps. No dice. So I emailed support.
 
-My Fitbit recently just stopped working. As far as I know, I hadn't done anything to damage the device, but it would not hold a charge. After searching [Fitbit.com][http://fitbit.com]'s support pages, I went through the recommended steps. No dice. So I emailed support.
-
-I was expecting to be told that I'd have to send in the Fitbit before anything could be done or even that I was out of luck. Instead within 24 hours I was told to toss the broken device and that they sent me a replacement. I was already a [huge fan of  Fitbit][http://www.fitbit.com/user/22C25R]; I mean I'm closing in on 5 million steps. But I'd never contacted support and did not know what to expect. After this experience, my loyalty to Fitbit was increased tenfold. Instead of just sending me a canned response, the representative read my email, troubleshot my issue, and solved the problem. No hassle. No extra work for me. Thank you Fitbit.
+I was expecting to be told that I'd have to send in the Fitbit before anything could be done or even that I was out of luck. Instead within 24 hours I was told to toss the broken device and that they sent me a replacement. I was already a [huge fan of  Fitbit](http://www.fitbit.com/user/22C25R); I mean I'm closing in on 5 million steps. But I'd never contacted support and did not know what to expect. After this experience, my loyalty to Fitbit was increased tenfold. Instead of just sending me a canned response, the representative read my email, troubleshot my issue, and solved the problem. No hassle. No extra work for me. Thank you Fitbit.
 
 ###This is being a Customer Evangelist.
 
