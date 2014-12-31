@@ -3,9 +3,15 @@ layout: layout
 ---
 
 <section class="content">
-  <section id="post">
-    {% include post_header.html %}
-    {{ content }}
+  <h1>
+    <a href="{{ page.url }}">{{ page.title }}</a>
+  </h1>
+
+  <section class="byline">
+    {{ page.date | date: "%B %e, %Y" }}
+  </section>
+
+  {{ content }}
     
   <section class="meta">
     <h3>Want to talk about this?</h3>
