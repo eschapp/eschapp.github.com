@@ -6,7 +6,7 @@ permalink: /posts/twitter-looking-for-some-new-people-to-follow
 
 Its almost 2015 and perhaps you are stuck in a Twitter rut, so why not find a few new people to follow? I regularly try to add some new voices to my feed to keep things fresh. I also think this helps to keep my world from getting too homogeneous. I mean who likes to see the same article, quote, or retweet fill their feed?
 
-[Twitter's] (http://twitter.com) "Discover Tab" and "Who To Follow" functions work well enough, although in my experience their algorithm heavily weighs people you already follow or with whom you interact. We're trying to get out of the echo chamber. You can search some new topics on Twitter looking for some variety, but instead I'll help out by highlighting a few different people I think add some variety to my feed. 
+[Twitter's](http://twitter.com) "Discover Tab" and "Who To Follow" functions work well enough, although in my experience their algorithm heavily weighs people you already follow or with whom you interact. We're trying to get out of the echo chamber. You can search some new topics on Twitter looking for some variety, but instead I'll help out by highlighting a few different people I think add some variety to my feed. 
 
 First up, Chris Jaffe, a good follow for those who want to add some baseball or history to their feed. I enjoy Chris's daily tweets such as this one:
 <blockquote class="twitter-tweet" lang="en"><p>Today, King Carlos I of (who recently stepped down) is exactly as old as Louis XIV of France was the day he died: 28,119. They&#39;re related.</p>&mdash; Chris Jaffe (@jaffechris) <a href="https://twitter.com/jaffechris/status/550300748912001024">December 31, 2014</a></blockquote>
