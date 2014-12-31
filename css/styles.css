@@ -156,6 +156,7 @@ h3{
 #post{
   padding-bottom: 30px;
   margin-bottom: 30px;
+  background: #f1f1f1;
 }
 #post ul{
   font-size: 15px;
@@ -237,6 +238,7 @@ h3{
       margin-top: 0px;
       margin-right: 10px;
       margin-left: -60px;
+      -webkit-box-shadow: none;
       }
     .content .meta .copy {
       padding-left: 60px; }
