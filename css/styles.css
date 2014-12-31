@@ -11,10 +11,10 @@ body{
  }
 
 a{
-  color: #AFAFAF;
+  color: #168eea;
 }
 a:hover{
-  text-decoration: none;
+  text-decoration: underline;
 }
 p code, li code{
   background-color: #F9F9F9;
