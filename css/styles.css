@@ -34,7 +34,7 @@ hr{
   width: 750px;
   margin-bottom: 90px;
   background-color: #7f7f7f;
-  background-color: rgba(255,255,255,0.9);
+  background-color: rgba(255,255,255,0.3);
 }
 .content ul{
   margin-left: -10px;
@@ -229,11 +229,8 @@ post .aside{
 #post  .content .meta {
     margin: 20px 0;
     padding: 10px 0;
-    font-family: Helvetica, sans-serif;
-    background-color: #7f7f7f;
-    background-color: rgba(255,255,255,0.9);
 }
-}
+
      .content .meta p {
       line-height: 1.4;
       font-size: 14px;
