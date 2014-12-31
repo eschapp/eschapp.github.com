@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter: Looking for Some New People to Follow?
+title: Twitter - Looking for Some New People to Follow?
 permalink: /posts/twitter-looking-for-some-new-people-to-follow
 ---
 
