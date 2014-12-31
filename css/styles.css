@@ -222,3 +222,23 @@ h3{
   color: #111;
   font-style: normal;
 }
+
+  .content .meta {
+    margin: 30px 0;
+    padding: 10px 0;
+    font-family: Helvetica, sans-serif; }
+    .content .meta p {
+      line-height: 1.4;
+      font-size: 14px;
+      margin-top: 0px; }
+    .content .meta img {
+      position: relative;
+      float: left;
+      margin-top: 0px;
+      margin-right: 10px;
+      margin-left: -60px;
+      border-radius: 4px; }
+    .content .meta .copy {
+      padding-left: 60px; }
+    .content .meta iframe {
+      padding-left: 5px; }
