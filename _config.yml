@@ -1,7 +1,13 @@
-safe: false
 markdown: rdiscount
-pygments: true
 permalink: /posts/:title
-auto: true
 rdiscount:
   extensions: [smart]
+
+gems:
+  - jekyll-sitemap
+
+name: Eric Schapp
+url: http://e.schapp.co
+description: Not a Start Menu.
+twitter: eschapp
+  
