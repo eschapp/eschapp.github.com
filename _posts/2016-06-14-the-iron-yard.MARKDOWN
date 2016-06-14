@@ -4,7 +4,7 @@ title: The Iron Yard MSP Spring 2016
 permalink: /posts/the-iron-yard-msp-spring-2016
 ---
 
-# The Iron Yard Minneapolis Spring 2016
+### The Iron Yard Minneapolis Spring 2016
 
 The last time I seriously drafted an article on this site was well over a year ago. This strikes me as sad. That said, I'm planning on updating more often for the foreseeable future. A small hurdle, but you have to start somewhere.
 
